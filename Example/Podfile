@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SASPlacePicker_Example' do
+  pod 'SASPlacePicker', :path => '../'
+
+  target 'SASPlacePicker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
