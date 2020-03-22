@@ -1,0 +1,6 @@
+framework module SASPlacePicker {
+  umbrella header "SASPlacePicker-umbrella.h"
+
+  export *
+  module * { export * }
+}

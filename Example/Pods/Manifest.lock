@@ -1,0 +1,16 @@
+PODS:
+  - SASPlacePicker (0.1.0)
+
+DEPENDENCIES:
+  - SASPlacePicker (from `../`)
+
+EXTERNAL SOURCES:
+  SASPlacePicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SASPlacePicker: 565fa0eaa44cf480825db66315f6a12354ebc62f
+
+PODFILE CHECKSUM: 2aa1c114b680d88d43fc7ceab55df785b549ba60
+
+COCOAPODS: 1.9.1

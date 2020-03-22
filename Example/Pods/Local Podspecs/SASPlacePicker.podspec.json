@@ -1,0 +1,22 @@
+{
+  "name": "SASPlacePicker",
+  "version": "0.1.0",
+  "summary": "A short description of SASPlacePicker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/AnupSukumaran/SASPlacePicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AnupSukumaran": "anup.sukumaran9@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/AnupSukumaran/SASPlacePicker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SASPlacePicker/Classes/**/*"
+}
